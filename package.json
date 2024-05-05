@@ -1,0 +1,22 @@
+{
+  "name": "unlock_pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unlockpdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh-karmarkar/unlock_pdf.git"
+  },
+  "author": "Sourabh Karmarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh-karmarkar/unlock_pdf/issues"
+  },
+  "homepage": "https://github.com/sourabh-karmarkar/unlock_pdf#readme",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
